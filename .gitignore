@@ -2,3 +2,6 @@
 
 # .gitkeep files are local only (used for VS Code folder visibility)
 **/.gitkeep
+
+# Local strategy notes — not for repo
+_notes/
